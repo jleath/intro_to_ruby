@@ -1,0 +1,2 @@
+On line 1, a method called calculate_product is called with 1 argument
+when it expects two arguments
