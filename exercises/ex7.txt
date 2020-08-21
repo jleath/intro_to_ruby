@@ -1,0 +1,3 @@
+An array is an ordered sequence.
+
+A hash is an associative data structure in which values are mapped to keys.
